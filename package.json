@@ -1,0 +1,15 @@
+{
+  "name": "0-electronviewer",
+  "version": "1.0.0",
+  "description": "An Electron-based transparent window to mimic OBS Browser Source for overlays and widgets.",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron . --no-sandbox"
+  },
+  "keywords": ["electron", "obs", "overlay", "browser-source", "widgets"],
+  "author": "",
+  "license": "GPL-3.0",
+  "devDependencies": {
+    "electron": "37.2.6"
+  }
+}

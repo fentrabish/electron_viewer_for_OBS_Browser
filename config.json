@@ -1,0 +1,16 @@
+{
+  "sources": [
+  {
+      "url": "https://streamlabs.com/widgets/chat-highlight?",
+      "width": 800,
+      "height": 200,
+      "position": "top-left"
+    },
+    {
+      "url": "https://streamlabs.com/alert-box/v3",
+      "width": 300,
+      "height": 200,
+      "position": "top-left"
+    },
+  ]
+}
