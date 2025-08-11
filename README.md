@@ -49,7 +49,7 @@ If your OBS installation doesn’t have the built-in Browser Source feature, thi
 
 4. Run the app:
 5. cd your/directory
-   npm run start
+6. npm run start
 
 ---
 
