@@ -22,7 +22,7 @@ If your OBS installation doesn’t have the built-in Browser Source feature, thi
 ## 📦 Installation
 
 1. Clone this repository:
-   git clone https://github.com/yourusername/electron_viewer_for_OBS_Browser.git
+   git clone https://github.com/fentrabish/electron_viewer_for_OBS_Browser.git
    cd electron_viewer_for_OBS_Browser
 
 2. Install dependencies:
@@ -48,7 +48,8 @@ If your OBS installation doesn’t have the built-in Browser Source feature, thi
    }
 
 4. Run the app:
-   npm start
+5. cd your/directory
+   npm run start
 
 ---
 
